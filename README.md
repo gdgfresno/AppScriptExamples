@@ -1,6 +1,7 @@
 # AppScriptExamples
 
 Various App Script Examples
+Presentation: https://docs.google.com/presentation/d/1CA9_5BCoEPNbjtbFA9DdYBgCyAJblLV5p95EGIXJHUc/
 
 # Polymer version of Docs Translate
 Uses polymer + elements provided by https://github.com/gdgfresno/DocsAddonDemoHelper
